@@ -10,7 +10,7 @@ export function ClientComponent({ children }: { children: ReactNode }) {
 
 	return (
 		<>
-            <Loader />
+            {/* <Loader /> */}
 			<div className="relative z-10">
 				<Header />
                 <Popup />
