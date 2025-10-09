@@ -1,0 +1,79 @@
+@import "tailwindcss";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@theme inline {
+	--shadow-input:
+		0px 2px 3px -1px rgba(0, 0, 0, 0.1), 0px 1px 0px 0px rgba(25, 28, 33, 0.02),
+		0px 0px 0px 1px rgba(25, 28, 33, 0.08);
+
+	--color-background: #1a202c;
+	--color-foreground: #f7fafc;
+
+	--color-primary: #ffd700;
+	--color-secondary: #fbbf24;
+	--color-accent: #9b1c31;
+
+	--font-sans: var(--font-inter);
+	--font-title: var(--font-rakkas);
+}
+
+@theme {
+	--blue-1000: #2a8af6;
+	--purple-1000: #a853ba;
+	--red-1000: #e92a67;
+}
+
+:root {
+	--white: rgb(239, 239, 239);
+	--grey: rgb(176, 176, 176);
+	--black: rgb(0, 0, 0);
+	--red: rgb(255, 192, 203);
+	--pink: #ff99a3;
+
+	--pink-dark: #e68a93;
+
+	--red-light: rgb(48, 12, 12, 0.5);
+
+	--white-transparent: rgba(239, 239, 239, 0);
+	--grey-transparent: rgba(176, 176, 176, 0);
+	--black-transparent: rgba(0, 0, 0, 0);
+	--pink-transparent: rgba(255, 152, 162, 0);
+	--red-transparent: rgba(255, 192, 203, 0.3);
+
+	/* Theme Based */
+	--color-background: #1a202c;
+	--color-foreground: #f7fafc;
+
+	--color-primary: #ffd700;
+	--color-secondary: #fbbf24;
+	--color-accent: #9b1c31;
+
+	--font-sans: var(--font-inter);
+	--font-title: var(--font-rakkas);
+
+	/* Easings */
+	--ease-in-quad: cubic-bezier(0.55, 0.085, 0.68, 0.53);
+	--ease-in-cubic: cubic-bezier(0.55, 0.055, 0.675, 0.19);
+	--ease-in-quart: cubic-bezier(0.895, 0.03, 0.685, 0.22);
+	--ease-in-quint: cubic-bezier(0.755, 0.05, 0.855, 0.06);
+	--ease-in-expo: cubic-bezier(0.95, 0.05, 0.795, 0.035);
+	--ease-in-circ: cubic-bezier(0.6, 0.04, 0.98, 0.335);
+	--ease-out-quad: cubic-bezier(0.25, 0.46, 0.45, 0.94);
+	--ease-out-cubic: cubic-bezier(0.215, 0.61, 0.355, 1);
+	--ease-out-quart: cubic-bezier(0.165, 0.84, 0.44, 1);
+	--ease-out-quint: cubic-bezier(0.23, 1, 0.32, 1);
+	--ease-out-expo: cubic-bezier(0.19, 1, 0.22, 1);
+	--ease-out-circ: cubic-bezier(0.075, 0.82, 0.165, 1);
+	--ease-in-out-quad: cubic-bezier(0.455, 0.03, 0.515, 0.955);
+	--ease-in-out-cubic: cubic-bezier(0.645, 0.045, 0.355, 1);
+	--ease-in-out-quart: cubic-bezier(0.77, 0, 0.175, 1);
+	--ease-in-out-quint: cubic-bezier(0.86, 0, 0.07, 1);
+	--ease-in-out-expo: cubic-bezier(1, 0, 0, 1);
+	--ease-in-out-circ: cubic-bezier(0.785, 0.135, 0.15, 0.86);
+}
+
+.bg-radial-pink {
+	background-color: radial-gradient(var(--pink), var(--pink-transparent) 70%);
+}

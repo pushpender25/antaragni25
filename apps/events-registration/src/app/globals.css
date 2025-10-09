@@ -1,0 +1,38 @@
+@import "tailwindcss";
+@import "@repo/tailwind-config";
+@import "@repo/ui/styles.css";
+@plugin "@tailwindcss/typography";
+
+body{
+  @apply bg-background text-foreground font-sans;
+  /* background-image: radial-gradient(
+    circle at center,
+    var(--color-background) 0%,
+    #10141b 100%
+  ); */
+}
+
+:where(h1, h2, h3, h4, h5, h6) {
+  @apply font-title;
+}
+
+
+@media screen and (max-width: 768px) {
+  .about-desk{
+    display: none;
+  }
+  .about-mob{
+    display: block;
+  }
+  
+}
+
+@media screen and (min-width: 769px) {
+  .about-desk{
+    display: block;
+  }
+  .about-mob{
+    display: none;
+  }
+  
+}

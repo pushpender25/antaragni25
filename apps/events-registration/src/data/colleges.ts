@@ -1,0 +1,1068 @@
+export const colleges: {label:string, value:string}[] = [
+	{
+		label: "Other",
+		value: "-1",
+	},
+	{
+		label: "ACHARYA NARENDRA DEV COLLEGE",
+		value: "ACHARYA NARENDRA DEV COLLEGE",
+	},
+	{
+		label: "ACROPOLIS INSTITUTE OF TECHNOLOGY AND REASEARCH",
+		value: "ACROPOLIS INSTITUTE OF TECHNOLOGY AND REASEARCH",
+	},
+	{
+		label: "ALL INDIA INSTITUTE OF MEDICAL SCIENCES (AIIMS)",
+		value: "ALL INDIA INSTITUTE OF MEDICAL SCIENCES (AIIMS)",
+	},
+	{
+		label: "AMITY",
+		value: "AMITY",
+	},
+	{
+		label: "AMITY JAIPUR",
+		value: "AMITY JAIPUR",
+	},
+	{
+		label: "AMITY UNIVERSITY",
+		value: "AMITY UNIVERSITY",
+	},
+	{
+		label: "AMITY UNIVERSITY (FINANCE)",
+		value: "AMITY UNIVERSITY (FINANCE)",
+	},
+	{
+		label: "AMITY UNIVERSITY HARYANA",
+		value: "AMITY UNIVERSITY HARYANA",
+	},
+	{
+		label: "AMITY UNIVERSITY LUCKNOW",
+		value: "AMITY UNIVERSITY LUCKNOW",
+	},
+	{
+		label: "ARMY COLLEGE OF MEDICAL SCIENCES (ACMS)",
+		value: "ARMY COLLEGE OF MEDICAL SCIENCES (ACMS)",
+	},
+	{
+		label: "ASTRAL INSTITUTE OF TECHNOLG AND RESEARCH,INDORE",
+		value: "ASTRAL INSTITUTE OF TECHNOLG AND RESEARCH,INDORE",
+	},
+	{
+		label: "ATAL BIHARI VAJPAYEE IIIT",
+		value: "ATAL BIHARI VAJPAYEE IIIT",
+	},
+	{
+		label: "ATMA RAM SANATAN DHARMA (ARSD)",
+		value: "ATMA RAM SANATAN DHARMA (ARSD)",
+	},
+	{
+		label: "BABU BANARASI DAS NORTHERN INDIA INSTITUTE OF TECHNOLOGY (BBDNIIT)",
+		value: "BABU BANARASI DAS NORTHERN INDIA INSTITUTE OF TECHNOLOGY (BBDNIIT)",
+	},
+	{
+		label: "BABU BANARASI DAS UNIVERSITY (BBD)",
+		value: "BABU BANARASI DAS UNIVERSITY (BBD)",
+	},
+	{
+		label: "BAKLIWAL FOUNDATION COLLEGE",
+		value: "BAKLIWAL FOUNDATION COLLEGE",
+	},
+	{
+		label: "BASNAL GROUP OF TECHNOLOGY",
+		value: "BASNAL GROUP OF TECHNOLOGY",
+	},
+	{
+		label: "BHARTI COLLEGE",
+		value: "BHARTI COLLEGE",
+	},
+	{
+		label: "BHASKARACHARYA COLLEGE OF APPLIED SCIENCES (BCAS)",
+		value: "BHASKARACHARYA COLLEGE OF APPLIED SCIENCES (BCAS)",
+	},
+	{
+		label: "BHIM RAO AMBEDKAR COLLEGE (BRAC)",
+		value: "BHIM RAO AMBEDKAR COLLEGE (BRAC)",
+	},
+	{
+		label: "BIT MESRA",
+		value: "BIT MESRA",
+	},
+	{
+		label: "BITS PILANI",
+		value: "BITS PILANI",
+	},
+	{
+		label: "CCET",
+		value: "CCET",
+	},
+	{
+		label: "CGC LANDRAN",
+		value: "CGC LANDRAN",
+	},
+	{
+		label: "CHAMELI DEVI GROUP OF INSTITUTIONS",
+		value: "CHAMELI DEVI GROUP OF INSTITUTIONS",
+	},
+	{
+		label: "CHANDIGARH COLLEGE OF ARCHITECTURE",
+		value: "CHANDIGARH COLLEGE OF ARCHITECTURE",
+	},
+	{
+		label: "CHANDIGARH GROUP OF COLLEGES",
+		value: "CHANDIGARH GROUP OF COLLEGES",
+	},
+	{
+		label: "CHANDIGARH UNIVERSITY",
+		value: "CHANDIGARH UNIVERSITY",
+	},
+	{
+		label: "CHITKARA",
+		value: "CHITKARA",
+	},
+	{
+		label: "COLLEGE OF VOCATIONAL STUDIES (CVS)",
+		value: "COLLEGE OF VOCATIONAL STUDIES (CVS)",
+	},
+	{
+		label: "COOPER MEDICAL COLLEGE",
+		value: "COOPER MEDICAL COLLEGE",
+	},
+	{
+		label: "D.A.V COLLEGE",
+		value: "D.A.V COLLEGE",
+	},
+	{
+		label: "DAULAT RAM COLLEGE (DRC)",
+		value: "DAULAT RAM COLLEGE (DRC)",
+	},
+	{
+		label: "DAV SECTOR 10",
+		value: "DAV SECTOR 10",
+	},
+	{
+		label: "DAYAL SINGH COLLEGE (EVENING)",
+		value: "DAYAL SINGH COLLEGE (EVENING)",
+	},
+	{
+		label: "DAYANAND ANGLO-VEDIC (POST-GRADUATE) COLLEGE (DAVPG)",
+		value: "DAYANAND ANGLO-VEDIC (POST-GRADUATE) COLLEGE (DAVPG)",
+	},
+	{
+		label: "DEEN DAYAL UPADHYAYA COLLEGE (DDU)",
+		value: "DEEN DAYAL UPADHYAYA COLLEGE (DDU)",
+	},
+	{
+		label: "DELHI COLLEGE OF ARTS AND COMMERCE (DCAC)",
+		value: "DELHI COLLEGE OF ARTS AND COMMERCE (DCAC)",
+	},
+	{
+		label: "DELHI SCHOOL OF ECONOMICS (DSE)",
+		value: "DELHI SCHOOL OF ECONOMICS (DSE)",
+	},
+	{
+		label: "DELHI TECHNICAL UNIVERSITY (DTU)",
+		value: "DELHI TECHNICAL UNIVERSITY (DTU)",
+	},
+	{
+		label: "DESHBANDHU COLLEGE",
+		value: "DESHBANDHU COLLEGE",
+	},
+	{
+		label:
+			"DR. AKHILESH DAS GUPTA INSTITUTE OF TECHNOLOGY AND MANAGEMENT(ADGITM)",
+		value:
+			"DR. AKHILESH DAS GUPTA INSTITUTE OF TECHNOLOGY AND MANAGEMENT(ADGITM)",
+	},
+	{
+		label: "DR. RAM MANOHAR LOHIA INSTITUTE OF MEDICAL SCIENCES (RML)",
+		value: "DR. RAM MANOHAR LOHIA INSTITUTE OF MEDICAL SCIENCES (RML)",
+	},
+	{
+		label: "DY PATIL UNIVERSITY",
+		value: "DY PATIL UNIVERSITY",
+	},
+	{
+		label: "DYAL SINGH COLLEGE (MORNING)",
+		value: "DYAL SINGH COLLEGE (MORNING)",
+	},
+	{
+		label: "GALGOTIAS UNIVERSITY",
+		value: "GALGOTIAS UNIVERSITY",
+	},
+	{
+		label: "GARGI COLLEGE",
+		value: "GARGI COLLEGE",
+	},
+	{
+		label: "GAUTAM BUDDHA UNIVERSITY",
+		value: "GAUTAM BUDDHA UNIVERSITY",
+	},
+	{
+		label: "GNE COLLEGE LUDHIANA",
+		value: "GNE COLLEGE LUDHIANA",
+	},
+	{
+		label: "GRANT MEDICAL COLLEGE",
+		value: "GRANT MEDICAL COLLEGE",
+	},
+	{
+		label: "GURU GOBIND SINGH INDRAPRASTHA UNIVERSITY (IPU) ( MAIN CAMPUS)",
+		value: "GURU GOBIND SINGH INDRAPRASTHA UNIVERSITY (IPU) ( MAIN CAMPUS)",
+	},
+	{
+		label: "GURUKUL VIDYAPEETH",
+		value: "GURUKUL VIDYAPEETH",
+	},
+	{
+		label: "HAMDARD INSTITUTE OF MEDICAL SCIENCES & RESEARCH (HIMSR)",
+		value: "HAMDARD INSTITUTE OF MEDICAL SCIENCES & RESEARCH (HIMSR)",
+	},
+	{
+		label: "HANSRAJ COLLEGE",
+		value: "HANSRAJ COLLEGE",
+	},
+	{
+		label: "HINDU COLLEGE",
+		value: "HINDU COLLEGE",
+	},
+	{
+		label: "IIIT AGARTALA",
+		value: "IIIT AGARTALA",
+	},
+	{
+		label: "IIIT ALLAHABAD",
+		value: "IIIT ALLAHABAD",
+	},
+	{
+		label: "IIIT BHAGALPUR",
+		value: "IIIT BHAGALPUR",
+	},
+	{
+		label: "IIIT BHOPAL",
+		value: "IIIT BHOPAL",
+	},
+	{
+		label: "IIIT DHARWAD",
+		value: "IIIT DHARWAD",
+	},
+	{
+		label: "IIIT GUWAHATI",
+		value: "IIIT GUWAHATI",
+	},
+	{
+		label: "IIIT JABALPUR",
+		value: "IIIT JABALPUR",
+	},
+	{
+		label: "IIIT KALYANI",
+		value: "IIIT KALYANI",
+	},
+	{
+		label: "IIIT KANCHEEPURAM",
+		value: "IIIT KANCHEEPURAM",
+	},
+	{
+		label: "IIIT KOTTAYAM",
+		value: "IIIT KOTTAYAM",
+	},
+	{
+		label: "IIIT KURNOOL",
+		value: "IIIT KURNOOL",
+	},
+	{
+		label: "IIIT LUCKNOW",
+		value: "IIIT LUCKNOW",
+	},
+	{
+		label: "IIIT MANIPUR",
+		value: "IIIT MANIPUR",
+	},
+	{
+		label: "IIIT NAGPUR",
+		value: "IIIT NAGPUR",
+	},
+	{
+		label: "IIIT PUNE",
+		value: "IIIT PUNE",
+	},
+	{
+		label: "IIIT RAICHUR",
+		value: "IIIT RAICHUR",
+	},
+	{
+		label: "IIIT RANCHI",
+		value: "IIIT RANCHI",
+	},
+	{
+		label: "IIIT SONEPAT",
+		value: "IIIT SONEPAT",
+	},
+	{
+		label: "IIIT SRI CITY",
+		value: "IIIT SRI CITY",
+	},
+	{
+		label: "IIIT SURAT",
+		value: "IIIT SURAT",
+	},
+	{
+		label: "IIIT TIRUCHIRAPPALLI",
+		value: "IIIT TIRUCHIRAPPALLI",
+	},
+	{
+		label: "IIIT UNA",
+		value: "IIIT UNA",
+	},
+	{
+		label: "IIIT VADODARA",
+		value: "IIIT VADODARA",
+	},
+	{
+		label: "IISER MOHALI",
+		value: "IISER MOHALI",
+	},
+	{
+		label: "IIT BHILAI",
+		value: "IIT BHILAI",
+	},
+	{
+		label: "IIT BHUBANESHWAR",
+		value: "IIT BHUBANESHWAR",
+	},
+	{
+		label: "IIT BOMBAY",
+		value: "IIT BOMBAY",
+	},
+	{
+		label: "IIT DELHI",
+		value: "IIT DELHI",
+	},
+	{
+		label: "IIT DHANBAD",
+		value: "IIT DHANBAD",
+	},
+	{
+		label: "IIT DHARWAD",
+		value: "IIT DHARWAD",
+	},
+	{
+		label: "IIT GANDHINAGAR",
+		value: "IIT GANDHINAGAR",
+	},
+	{
+		label: "IIT GOA",
+		value: "IIT GOA",
+	},
+	{
+		label: "IIT GUWAHATI",
+		value: "IIT GUWAHATI",
+	},
+	{
+		label: "IIT HYDERABAD",
+		value: "IIT HYDERABAD",
+	},
+	{
+		label: "IIT INDORE",
+		value: "IIT INDORE",
+	},
+	{
+		label: "IIT JAMMU",
+		value: "IIT JAMMU",
+	},
+	{
+		label: "IIT JODHPUR",
+		value: "IIT JODHPUR",
+	},
+	{
+		label: "IIT KANPUR",
+		value: "IIT KANPUR",
+	},
+	{
+		label: "IIT KHARAGPUR",
+		value: "IIT KHARAGPUR",
+	},
+	{
+		label: "IIT MADRAS",
+		value: "IIT MADRAS",
+	},
+	{
+		label: "IIT MANDI",
+		value: "IIT MANDI",
+	},
+	{
+		label: "IIT PALAKKAD",
+		value: "IIT PALAKKAD",
+	},
+	{
+		label: "IIT PATNA",
+		value: "IIT PATNA",
+	},
+	{
+		label: "IIT ROORKEE",
+		value: "IIT ROORKEE",
+	},
+	{
+		label: "IIT ROPAR",
+		value: "IIT ROPAR",
+	},
+	{
+		label: "IIT TIRUPATI",
+		value: "IIT TIRUPATI",
+	},
+	{
+		label: "IIT VARANASI",
+		value: "IIT VARANASI",
+	},
+	{
+		label: "INDIAN INSTITUE OF MANAGEMENT (IIM LUCKNOW)",
+		value: "INDIAN INSTITUE OF MANAGEMENT (IIM LUCKNOW)",
+	},
+	{
+		label: "INDIAN INSTITUTE OF INFORMATION TECHNOLOGY, LUCKNOW (IIIT LUCKNOW)",
+		value: "INDIAN INSTITUTE OF INFORMATION TECHNOLOGY, LUCKNOW (IIIT LUCKNOW)",
+	},
+	{
+		label: "INDIAN INSTITUTE OF MANAGEMENT INDORE (IIM INDORE)",
+		value: "INDIAN INSTITUTE OF MANAGEMENT INDORE (IIM INDORE)",
+	},
+	{
+		label: "INDIAN INSTITUTE OF SCIENCE EDUCATION AND RESEARCH (IISER)",
+		value: "INDIAN INSTITUTE OF SCIENCE EDUCATION AND RESEARCH (IISER)",
+	},
+	{
+		label: "INDIRA GANDHI DELHI TECHNICAL UNIVERSITY FOR WOMEN (IGDTU)",
+		value: "INDIRA GANDHI DELHI TECHNICAL UNIVERSITY FOR WOMEN (IGDTU)",
+	},
+	{
+		label: "INDO GLOBAL COLLEGE",
+		value: "INDO GLOBAL COLLEGE",
+	},
+	{
+		label: "INDRAPRASTHA COLLEGE FOR WOMEN (IPCW)",
+		value: "INDRAPRASTHA COLLEGE FOR WOMEN (IPCW)",
+	},
+	{
+		label: "INSTITUTE FOR EXCELLENCE IN HIGHER EDUCATION (IEHE)",
+		value: "INSTITUTE FOR EXCELLENCE IN HIGHER EDUCATION (IEHE)",
+	},
+	{
+		label: "INSTITUTE OF ENGINEERING AND TECHNOLOGY (IET)",
+		value: "INSTITUTE OF ENGINEERING AND TECHNOLOGY (IET)",
+	},
+	{
+		label: "INSTITUTE OF HOME ECONOMICS (IME)",
+		value: "INSTITUTE OF HOME ECONOMICS (IME)",
+	},
+	{
+		label: "INSTITUTE OF MANAGEMENT SCIENCE (IMS)",
+		value: "INSTITUTE OF MANAGEMENT SCIENCE (IMS)",
+	},
+	{
+		label: "INTEGRAL UNIVERSITY",
+		value: "INTEGRAL UNIVERSITY",
+	},
+	{
+		label: "ISABELLA THOBURN COLLEGE",
+		value: "ISABELLA THOBURN COLLEGE",
+	},
+	{
+		label: "JAGAN INSTITUTE OF MANAGEMENT STUDIES (JIMS)",
+		value: "JAGAN INSTITUTE OF MANAGEMENT STUDIES (JIMS)",
+	},
+	{
+		label: "JANKI DEVI MEMORIAL COLLEGE (JDMC)",
+		value: "JANKI DEVI MEMORIAL COLLEGE (JDMC)",
+	},
+	{
+		label: "JAWAHARLAL NEHRU MEDICAL COLLEGE,KAHER,BELGAVI",
+		value: "JAWAHARLAL NEHRU MEDICAL COLLEGE,KAHER,BELGAVI",
+	},
+	{
+		label: "JAYPEE INSTITUTE OF INFORMATION TECHNOLOGY",
+		value: "JAYPEE INSTITUTE OF INFORMATION TECHNOLOGY",
+	},
+	{
+		label: "JECRC FOUNDATION",
+		value: "JECRC FOUNDATION",
+	},
+	{
+		label: "JECRC RAJASTHAN",
+		value: "JECRC RAJASTHAN",
+	},
+	{
+		label: "JESUS AND MARY COLLEGE(JMC)",
+		value: "JESUS AND MARY COLLEGE(JMC)",
+	},
+	{
+		label: "JGLS COLLEGE",
+		value: "JGLS COLLEGE",
+	},
+	{
+		label: "JSS ACADEMY OF TECHNICAL EDUCATION",
+		value: "JSS ACADEMY OF TECHNICAL EDUCATION",
+	},
+	{
+		label: "KALINDI COLLEGE",
+		value: "KALINDI COLLEGE",
+	},
+	{
+		label: "KAMLA NEHRU COLLEGE (KNC)",
+		value: "KAMLA NEHRU COLLEGE (KNC)",
+	},
+	{
+		label: "KAMLA RAHEJA VIDYANIDHI INSTITUTE FOR ARCHITECTURE (KVRIA)",
+		value: "KAMLA RAHEJA VIDYANIDHI INSTITUTE FOR ARCHITECTURE (KVRIA)",
+	},
+	{
+		label: "KANORIA PG MAHAVIDYALAYA",
+		value: "KANORIA PG MAHAVIDYALAYA",
+	},
+	{
+		label: "KESHAV MAHAVIDALAYA",
+		value: "KESHAV MAHAVIDALAYA",
+	},
+	{
+		label: "KHALSA",
+		value: "KHALSA",
+	},
+	{
+		label: "KIRORI MAL COLLEGE (KMC)",
+		value: "KIRORI MAL COLLEGE (KMC)",
+	},
+	{
+		label: "KISHINCHAND CHELLARAM COLLEGE (KC)",
+		value: "KISHINCHAND CHELLARAM COLLEGE (KC)",
+	},
+	{
+		label: "KNIT SULTANPUR",
+		value: "KNIT SULTANPUR",
+	},
+	{
+		label: "LADY HARDINGE MEDICAL COLLEGE (LHMC)",
+		value: "LADY HARDINGE MEDICAL COLLEGE (LHMC)",
+	},
+	{
+		label: "LADY IRWIN COLLEGE (LIC)",
+		value: "LADY IRWIN COLLEGE (LIC)",
+	},
+	{
+		label: "LADY SHRI RAM (LSR)",
+		value: "LADY SHRI RAM (LSR)",
+	},
+	{
+		label: "LAKSHMIBAI COLLEGE",
+		value: "LAKSHMIBAI COLLEGE",
+	},
+	{
+		label: "LAKSHMIPATI INSTITUTE OF SCIENCE & TECHNOLOGY",
+		value: "LAKSHMIPATI INSTITUTE OF SCIENCE & TECHNOLOGY",
+	},
+	{
+		label: "LAL BAHADUR SHASTRI INSTITUTE OF MANAGEMENT, DELHI (LBSIM)",
+		value: "LAL BAHADUR SHASTRI INSTITUTE OF MANAGEMENT, DELHI (LBSIM)",
+	},
+	{
+		label: "LNMIIT",
+		value: "LNMIIT",
+	},
+	{
+		label: "LNMIIT JAIPUR",
+		value: "LNMIIT JAIPUR",
+	},
+	{
+		label: "LOVELY PROFESSIONAL UNIVERSITY (LPU)",
+		value: "LOVELY PROFESSIONAL UNIVERSITY (LPU)",
+	},
+	{
+		label: "LUCKNOW UNIVERSITY (NEW CAMPUS)",
+		value: "LUCKNOW UNIVERSITY (NEW CAMPUS)",
+	},
+	{
+		label: "MADANAPALLE INSTITUTE OF TECHNOLOGY AND SCIENCE RAJASTHAN (MITS)",
+		value: "MADANAPALLE INSTITUTE OF TECHNOLOGY AND SCIENCE RAJASTHAN (MITS)",
+	},
+	{
+		label: "MAHARAJA AGRASEN INSTITUTE OF TECHNOLOGY (MAIT)",
+		value: "MAHARAJA AGRASEN INSTITUTE OF TECHNOLOGY (MAIT)",
+	},
+	{
+		label: "MAHARAJA SURAJMAL INSTITUTE OF TECHNOLOGY (MSIT)",
+		value: "MAHARAJA SURAJMAL INSTITUTE OF TECHNOLOGY (MSIT)",
+	},
+	{
+		label: "UNIVERSITY MAHARANI COLLEGE, JAIPUR",
+		value: "UNIVERSITY MAHARANI COLLEGE, JAIPUR",
+	},
+	{
+		label: "MAHARANI GIRLS ENGINEERING COLLEGE, JAIPUR",
+		value: "MAHARANI GIRLS ENGINEERING COLLEGE, JAIPUR",
+	},
+	{
+		label: "MAHATMA GANDHI MEMORIAL MEDICAL COLLEGE",
+		value: "MAHATMA GANDHI MEMORIAL MEDICAL COLLEGE",
+	},
+	{
+		label: "MAITREYI COLLEGE",
+		value: "MAITREYI COLLEGE",
+	},
+	{
+		label: "MALWA INSTITUTE OF TECHNOLOGY, INDORE",
+		value: "MALWA INSTITUTE OF TECHNOLOGY, INDORE",
+	},
+	{
+		label: "MANAV RACHNA UNIVERSITY (MRU)",
+		value: "MANAV RACHNA UNIVERSITY (MRU)",
+	},
+	{
+		label: "MANIPAL UNIVERSITY",
+		value: "MANIPAL UNIVERSITY",
+	},
+	{
+		label: "MANIPAL UNIVERSITY JAIPUR",
+		value: "MANIPAL UNIVERSITY JAIPUR",
+	},
+	{
+		label: "MATA SUNDRI COLLEGE (MSC)",
+		value: "MATA SUNDRI COLLEGE (MSC)",
+	},
+	{
+		label: "MAULANA AZAD MEDICAL COLLEGE (MAMC)",
+		value: "MAULANA AZAD MEDICAL COLLEGE (MAMC)",
+	},
+	{
+		label: "MCM DAV",
+		value: "MCM DAV",
+	},
+	{
+		label: "MEDICAP UNIVERSITY",
+		value: "MEDICAP UNIVERSITY",
+	},
+	{
+		label: "MIRANDA HOUSE (MIRANDA HOUSE)",
+		value: "MIRANDA HOUSE (MIRANDA HOUSE)",
+	},
+	{
+		label: "MITHIBAI COLLEGE OF ARTS",
+		value: "MITHIBAI COLLEGE OF ARTS",
+	},
+	{
+		label: "MITS",
+		value: "MITS",
+	},
+	{
+		label: "MNIT JAIPUR",
+		value: "MNIT JAIPUR",
+	},
+	{
+		label: "MODY UNIVERSITY RAJASTHAN",
+		value: "MODY UNIVERSITY RAJASTHAN",
+	},
+	{
+		label: "MOTILAL NEHRU COLLEGE",
+		value: "MOTILAL NEHRU COLLEGE",
+	},
+	{
+		label:
+			"MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING (MPSTME)",
+		value:
+			"MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING (MPSTME)",
+	},
+	{
+		label: "NARSEE MONJEE COLLEGE OF COMMERCE AND ECONOMICS (NMCCE)",
+		value: "NARSEE MONJEE COLLEGE OF COMMERCE AND ECONOMICS (NMCCE)",
+	},
+	{
+		label: "NARSEE MONJEE INSTITUTE OF MANAGEMENT STUDIES (NMIMS)",
+		value: "NARSEE MONJEE INSTITUTE OF MANAGEMENT STUDIES (NMIMS)",
+	},
+	{
+		label: "NATIONAL INSTITUTE OF FASHION (NIFT MUMBAI)",
+		value: "NATIONAL INSTITUTE OF FASHION (NIFT MUMBAI)",
+	},
+	{
+		label: "NATIONAL INSTITUTE OF FASHION TECHNOLOGY (NIFT)",
+		value: "NATIONAL INSTITUTE OF FASHION TECHNOLOGY (NIFT)",
+	},
+	{
+		label: "NATIONAL INSTITUTE OF TECHNOLOGY,BHOPAL (NIT BHOPAL)",
+		value: "NATIONAL INSTITUTE OF TECHNOLOGY,BHOPAL (NIT BHOPAL)",
+	},
+	{
+		label: "NATIONAL LAW UNIVERSITY (NLU)",
+		value: "NATIONAL LAW UNIVERSITY (NLU)",
+	},
+	{
+		label: "NETAJI SUBHAS UNIVERSITY OF TECHNOLOGY (NSIT)",
+		value: "NETAJI SUBHAS UNIVERSITY OF TECHNOLOGY (NSIT)",
+	},
+	{
+		label: "NIFT KANGRA",
+		value: "NIFT KANGRA",
+	},
+	{
+		label: "NIT AGARTALA",
+		value: "NIT AGARTALA",
+	},
+	{
+		label: "NIT ALLAHBAD",
+		value: "NIT ALLAHBAD",
+	},
+	{
+		label: "NIT ANDHRAPRADESH",
+		value: "NIT ANDHRAPRADESH",
+	},
+	{
+		label: "NIT ARUNACHAL PRADESH",
+		value: "NIT ARUNACHAL PRADESH",
+	},
+	{
+		label: "NIT BHOPAL",
+		value: "NIT BHOPAL",
+	},
+	{
+		label: "NIT CALICUT",
+		value: "NIT CALICUT",
+	},
+	{
+		label: "NIT DELHI",
+		value: "NIT DELHI",
+	},
+	{
+		label: "NIT DURGAPUR",
+		value: "NIT DURGAPUR",
+	},
+	{
+		label: "NIT GOA",
+		value: "NIT GOA",
+	},
+	{
+		label: "NIT HAMIRPUR",
+		value: "NIT HAMIRPUR",
+	},
+	{
+		label: "NIT JAIPUR",
+		value: "NIT JAIPUR",
+	},
+	{
+		label: "NIT JALANDHAR",
+		value: "NIT JALANDHAR",
+	},
+	{
+		label: "NIT JAMSHEDPUR",
+		value: "NIT JAMSHEDPUR",
+	},
+	{
+		label: "NIT KARNATAKA",
+		value: "NIT KARNATAKA",
+	},
+	{
+		label: "NIT KURUKSHETRA",
+		value: "NIT KURUKSHETRA",
+	},
+	{
+		label: "NIT MEGHALAYA",
+		value: "NIT MEGHALAYA",
+	},
+	{
+		label: "NIT MIZORAM",
+		value: "NIT MIZORAM",
+	},
+	{
+		label: "NIT NAGALAND",
+		value: "NIT NAGALAND",
+	},
+	{
+		label: "NIT NAGPUR",
+		value: "NIT NAGPUR",
+	},
+	{
+		label: "NIT PATNA",
+		value: "NIT PATNA",
+	},
+	{
+		label: "NIT PUDUCHERRY",
+		value: "NIT PUDUCHERRY",
+	},
+	{
+		label: "NIT RAIPUR",
+		value: "NIT RAIPUR",
+	},
+	{
+		label: "NIT ROURKELA",
+		value: "NIT ROURKELA",
+	},
+	{
+		label: "NIT SIKKIM",
+		value: "NIT SIKKIM",
+	},
+	{
+		label: "NIT SILCHAR",
+		value: "NIT SILCHAR",
+	},
+	{
+		label: "NIT SRINAGAR",
+		value: "NIT SRINAGAR",
+	},
+	{
+		label: "NIT SURAT",
+		value: "NIT SURAT",
+	},
+	{
+		label: "NIT TIRUCHIRAPPALLI",
+		value: "NIT TIRUCHIRAPPALLI",
+	},
+	{
+		label: "NIT UTTARAKHAND",
+		value: "NIT UTTARAKHAND",
+	},
+	{
+		label: "NIT WARANGAL",
+		value: "NIT WARANGAL",
+	},
+	{
+		label: "NITK",
+		value: "NITK",
+	},
+	{
+		label: "NOIDA INSTITUTE OF ENGINEERING AND TECHNOLOGY (NIET)",
+		value: "NOIDA INSTITUTE OF ENGINEERING AND TECHNOLOGY (NIET)",
+	},
+	{
+		label: "PANNALAL GIRDHARLAL DAYANAND ANGLO-VEDIC (PGDAV) COLLEGE",
+		value: "PANNALAL GIRDHARLAL DAYANAND ANGLO-VEDIC (PGDAV) COLLEGE",
+	},
+	{
+		label: "PANNALAL GIRDHARLAL DAYANAND ANGLO-VEDIC (PGDAV) COLLEGE (EVENING)",
+		value: "PANNALAL GIRDHARLAL DAYANAND ANGLO-VEDIC (PGDAV) COLLEGE (EVENING)",
+	},
+	{
+		label: "PEARL ACADEMY, DELHI",
+		value: "PEARL ACADEMY, DELHI",
+	},
+	{
+		label: "PRATEEK MODI DANCE ACADEMY",
+		value: "PRATEEK MODI DANCE ACADEMY",
+	},
+	{
+		label: "PRESTIGE INSTITUTE OF MANAGEMENT AND REASEARCH, INDORE",
+		value: "PRESTIGE INSTITUTE OF MANAGEMENT AND REASEARCH, INDORE",
+	},
+	{
+		label: "PUNJAB ENGINEERING COLLEGE (PEC)",
+		value: "PUNJAB ENGINEERING COLLEGE (PEC)",
+	},
+	{
+		label: "RAJDHANI COLLEGE",
+		value: "RAJDHANI COLLEGE",
+	},
+	{
+		label: "RAJIV GANDHI INSTITUTE OF TECHNOLOGY (RGIT)",
+		value: "RAJIV GANDHI INSTITUTE OF TECHNOLOGY (RGIT)",
+	},
+	{
+		label: "RAM LAL ANAND COLLEGE",
+		value: "RAM LAL ANAND COLLEGE",
+	},
+	{
+		label: "RAMANUGAN COLLEGE",
+		value: "RAMANUGAN COLLEGE",
+	},
+	{
+		label: "RAMJAS COLLEGE",
+		value: "RAMJAS COLLEGE",
+	},
+	{
+		label: "RAYAT BAHRA",
+		value: "RAYAT BAHRA",
+	},
+	{
+		label: "SCHOOL OF COMPUTER SCIENCE & IT",
+		value: "SCHOOL OF COMPUTER SCIENCE & IT",
+	},
+	{
+		label: "SHAHEED BHAGAT SINGH COLLEGE (SBSC) (MORNING)",
+		value: "SHAHEED BHAGAT SINGH COLLEGE (SBSC) (MORNING)",
+	},
+	{
+		label: "SHAHEED BHAGAT SINGH EVENING COLLEGE (SBSEC)",
+		value: "SHAHEED BHAGAT SINGH EVENING COLLEGE (SBSEC)",
+	},
+	{
+		label: "SHAHEED RAJGURU COLLEGE",
+		value: "SHAHEED RAJGURU COLLEGE",
+	},
+	{
+		label: "SHAHEED SUKHDEV COLLEGE OF BUSINESS STUDIES (SSCBS)",
+		value: "SHAHEED SUKHDEV COLLEGE OF BUSINESS STUDIES (SSCBS)",
+	},
+	{
+		label: "SHIVAJI COLLEGE",
+		value: "SHIVAJI COLLEGE",
+	},
+	{
+		label:
+			"SHRI GOVINDRAM SEKSARIA INSTITUTE OF TECHNOLOGY AND SCIENCE (SGSITS)",
+		value:
+			"SHRI GOVINDRAM SEKSARIA INSTITUTE OF TECHNOLOGY AND SCIENCE (SGSITS)",
+	},
+	{
+		label: "SHRI RAM COLLEGE OF COMMERCE (SRCC)",
+		value: "SHRI RAM COLLEGE OF COMMERCE (SRCC)",
+	},
+	{
+		label: "SHRI RAMSWAROOP MEMORIAL COLLEGE OF ENGINEERING AND MANAGEMENT",
+		value: "SHRI RAMSWAROOP MEMORIAL COLLEGE OF ENGINEERING AND MANAGEMENT",
+	},
+	{
+		label: "SHYAM LAL DU",
+		value: "SHYAM LAL DU",
+	},
+	{
+		label: "SION MEDICAL COLLEGE",
+		value: "SION MEDICAL COLLEGE",
+	},
+	{
+		label: "SOPHIA COLLEGE FOR WOMEN",
+		value: "SOPHIA COLLEGE FOR WOMEN",
+	},
+	{
+		label: "SOUTH INDIAN CULTURAL ASSOCIATION COLLEGE (SICA)",
+		value: "SOUTH INDIAN CULTURAL ASSOCIATION COLLEGE (SICA)",
+	},
+	{
+		label: "SRI AUROBINDO COLLEGE",
+		value: "SRI AUROBINDO COLLEGE",
+	},
+	{
+		label: "SRI GURU GOBIND SINGH COLLEGE OF COMMERCE (SGGSCC)",
+		value: "SRI GURU GOBIND SINGH COLLEGE OF COMMERCE (SGGSCC)",
+	},
+	{
+		label: "SRI GURU TEGH BAHADUR KHALSA COLLEGE (SGTB)",
+		value: "SRI GURU TEGH BAHADUR KHALSA COLLEGE (SGTB)",
+	},
+	{
+		label: "SRI VENKATESHWAR COLLEGE (SVC)",
+		value: "SRI VENKATESHWAR COLLEGE (SVC)",
+	},
+	{
+		label: "ST XAVIER",
+		value: "ST XAVIER",
+	},
+	{
+		label: "ST. STEPHEN'S COLLEGE",
+		value: "ST. STEPHEN'S COLLEGE",
+	},
+	{
+		label: "ST. XAVIER RAJASTHAN",
+		value: "ST. XAVIER RAJASTHAN",
+	},
+	{
+		label: "ST. XAVIER'S COLLEGE",
+		value: "ST. XAVIER'S COLLEGE",
+	},
+	{
+		label: "SVCE",
+		value: "SVCE",
+	},
+	{
+		label: "SWAMI SHRADHANAND COLLEGE",
+		value: "SWAMI SHRADHANAND COLLEGE",
+	},
+	{
+		label: "TECHNOCRATS INSTITUTE OF TECHNOLOGY (TIT BHOPAL)",
+		value: "TECHNOCRATS INSTITUTE OF TECHNOLOGY (TIT BHOPAL)",
+	},
+	{
+		label: "THAPAR UNIVERSITY",
+		value: "THAPAR UNIVERSITY",
+	},
+	{
+		label: "THE INSTITUTE OF ENGINEERING & TECHNOLOGY, DAVV",
+		value: "THE INSTITUTE OF ENGINEERING & TECHNOLOGY, DAVV",
+	},
+	{
+		label: "TRINITY INSTITUTE OF PROFESSIONAL STUDIES",
+		value: "TRINITY INSTITUTE OF PROFESSIONAL STUDIES",
+	},
+	{
+		label: "UICET",
+		value: "UICET",
+	},
+	{
+		label: "UIET PUNJAB UNIVERSITY",
+		value: "UIET PUNJAB UNIVERSITY",
+	},
+	{
+		label: "UIT HOSHIAPUR PANJAB UNIVERSITY",
+		value: "UIT HOSHIAPUR PANJAB UNIVERSITY",
+	},
+	{
+		label: "UIT-RGPV RAJASTHAN",
+		value: "UIT-RGPV RAJASTHAN",
+	},
+	{
+		label: "UNIVERSITY COLLEGE OF MEDICAL SCIENCES (UCMS)",
+		value: "UNIVERSITY COLLEGE OF MEDICAL SCIENCES (UCMS)",
+	},
+	{
+		label:
+			"UNIVERSITY COMMERCE COLLEGE",
+		value:
+			"UNIVERSITY COMMERCE COLLEGE",
+	},
+	{
+		label:
+			"UNIVERSITY INSTITUTE OF TECHNOLOGY RAJIV GANDHI PROUDYOGIKI VISHWAVIDYALAY, BHOPAL",
+		value:
+			"UNIVERSITY INSTITUTE OF TECHNOLOGY RAJIV GANDHI PROUDYOGIKI VISHWAVIDYALAY, BHOPAL",
+	},
+	{
+		label:
+			"UNIVERSITY MAHARAJA COLLEGE",
+		value:
+			"UNIVERSITY MAHARAJA COLLEGE",
+	},
+	{
+		label:
+			"UNIVERSITY RAJASTHAN COLLEGE",
+		value:
+			"UNIVERSITY RAJASTHAN COLLEGE",
+	},
+	{
+		label: "USHA PRAVIN GANDHI COLLEGE (UPG)",
+		value: "USHA PRAVIN GANDHI COLLEGE (UPG)",
+	},
+	{
+		label: "VARDHMAN MAHAVIR MEDICAL COLLEGE (VMMC)",
+		value: "VARDHMAN MAHAVIR MEDICAL COLLEGE (VMMC)",
+	},
+	{
+		label: "VARDHMAN MAHAVIR MEDICAL COLLEGE (VMMC) (SJH)",
+		value: "VARDHMAN MAHAVIR MEDICAL COLLEGE (VMMC) (SJH)",
+	},
+	{
+		label: "VIDYALANKAR INSTITUTE OF TECHNOLOGY",
+		value: "VIDYALANKAR INSTITUTE OF TECHNOLOGY",
+	},
+	{
+		label: "VIVEKANAND COLLEGE",
+		value: "VIVEKANAND COLLEGE",
+	},
+	{
+		label: "VIVEKANAND INSTITUTE OF PROFESSIONAL STUDIES (VIPS)",
+		value: "VIVEKANAND INSTITUTE OF PROFESSIONAL STUDIES (VIPS)",
+	},
+	{
+		label: "ZAKIR HUSSAIN DELHI COLLEGE(ZHDC)",
+		value: "ZAKIR HUSSAIN DELHI COLLEGE(ZHDC)",
+	},
+	{
+		label: "SATYAWATI COLLEGE MORNING",
+		value: "SATYAWATI COLLEGE (MORNING)",
+	},
+	{
+		label: "SATYAWATI COLLEGE EVENING",
+		value: "SATYAWATI COLLEGE (EVENING)",
+	},
+];

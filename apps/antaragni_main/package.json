@@ -1,0 +1,51 @@
+{
+  "name": "antaragni_main",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^7.1.0",
+    "@fortawesome/free-brands-svg-icons": "^7.1.0",
+    "@fortawesome/react-fontawesome": "^3.0.2",
+    "@react-three/drei": "^10.7.6",
+    "@repo/firebase": "^1.0.0",
+    "@repo/store": "^1.0.0",
+    "@repo/ui": "*",
+    "gsap": "^3.13.0",
+    "lenis": "^1.3.4",
+    "framer-motion": "^12.23.22",
+    "next": "15.5.4",
+    "react": "19.1.0",
+    "react-hot-toast": "^2.5.2",
+    "react-use": "^17.6.0",
+    "react-bento": "^1.0.9",
+    "react-countup": "^6.5.3",
+    "react-dom": "19.1.0",
+    "react-icons": "^5.5.0",
+    "react-router-dom": "^7.9.3",
+    "swiper": "^12.0.2"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3",
+    "@repo/eslint-config": "*",
+    "@repo/tailwind-config": "*",
+    "@repo/typescript-config": "*",
+    "@tailwindcss/postcss": "^4",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "@types/splitting": "^1.0.6",
+    "@types/three": "^0.177.0",
+    "eslint": "^9",
+    "eslint-config-next": "15.5.4",
+    "tailwindcss": "^4",
+    "typescript": "^5",
+    "raw-loader": "^4.0.2"
+  }
+}

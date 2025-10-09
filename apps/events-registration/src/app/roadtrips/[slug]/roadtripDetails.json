@@ -1,0 +1,393 @@
+[
+  {
+    "slug": "BattleUnderground",
+    "title": "Battle Underground ",
+    "backgroundImg": "/images/roadtrips/rap.jpg",
+    "aboutUs": {
+      "title": "The rap culture in India is currently surfing on a gigantic wave of popularity. In a short span of time, it has coursed from being unexplored to full of variety and rawness. With the diversity of languages that our nation holds, comes diversity in rappers and their performing styles. The emergence of numerous independent underground rappers ruling the streets is a testament to the budding interest in this arena of word battles. So hold your breaths to rise from the hustle as Antaragni’21 presents you yet another edition of Battle rap. The ROADTRIPS were held last year in 9 major cities including Delhi, Mumbai and Chandigarh with participant entries with diverse rapping styles. This year considering the current scenario, BATTLE RAP is coming to your city with its first 6 preliminary rounds being organised in an all new online mode. The winners from the preliminary rounds will get the opportunity to go head to head at the finale at IIT Kanpur and win incredible prizes. So get ready to spit your bars, throw your punches and diss your opponents to silence, because this is your chance. Sign up now",
+      "img": "/images/roadtrips/about-rap.jpg"
+    },
+    
+    "gallary": [
+     "/roadtrips/gallery-bug-rap/bug-rap-img1.jpg",
+     "/roadtrips/gallery-bug-rap/bug-rap-img2.jpg",
+      "/roadtrips/gallery-bug-rap/bug-rap-img3.jpg",
+      "/roadtrips/gallery-bug-rap/bug-rap-img4.jpg",
+      "/roadtrips/gallery-bug-rap/bug-rap-img5.jpg"
+    ],
+    "sponsors": [
+      {
+        "name": "HipHop Records",
+        "img": "/images/roadtrips/sponsor-rap1.png"
+      },
+      {
+        "name": "Urban Wear",
+        "img": "/images/roadtrips/sponsor-rap2.png"
+      }
+    ],
+    "events": [
+      {
+        "title": "Freestyle Battle",
+        "img": "/images/roadtrips/rap-event1.jpg"
+      },
+      {
+        "title": "Written Round",
+        "img": "/images/roadtrips/rap-event2.jpg"
+      }
+    ],
+    "contactUs": {
+      "name": "Contact Battle Underground",
+      "img": "/images/roadtrips/contact-rap.jpg",
+      "contactNumber": "+1234567891",
+      "instagram": "https://instagram.com/battleunderground",
+      "linkedin": "https://linkedin.com/company/battleunderground",
+      "email": "battle@underground.com"
+    }
+  },
+  {
+    "slug": "bug-rap",
+    "title": "Battle Underground Rap Battle",
+    "backgroundImg": "/roadtrips/bug-battle.jpg",
+    "aboutUs": {
+      "title": "The rap culture in India is currently surfing on a gigantic wave of popularity. In a short span of time, it has coursed from being unexplored to full of variety and rawness. With the diversity of languages that our nation holds, comes diversity in rappers and their performing styles. The emergence of numerous independent underground rappers ruling the streets is a testament to the budding interest in this arena of word battles. So hold your breaths to rise from the hustle as Antaragni’21 presents you yet another edition of Battle rap. The ROADTRIPS were held last year in 9 major cities including Delhi, Mumbai and Chandigarh with participant entries with diverse rapping styles. This year considering the current scenario, BATTLE RAP is coming to your city with its first 6 preliminary rounds being organised in an all new online mode. The winners from the preliminary rounds will get the opportunity to go head to head at the finale at IIT Kanpur and win incredible prizes. So get ready to spit your bars, throw your punches and diss your opponents to silence, because this is your chance. Sign up now",
+      "img": "/roadtrips/bug-rap-about.jpg"
+    },
+    "schedule": {
+      "city": "Rap Battle Schedule",
+      "date": "/images/roadtrips/rap-schedule.jpg"
+    },
+    "gallary": [
+      "/roadtrips/gallery-bug-rap/bug-rap-img1.jpg",
+     "/roadtrips/gallery-bug-rap/bug-rap-img2.jpg",
+      "/roadtrips/gallery-bug-rap/bug-rap-img3.jpg",
+      "/roadtrips/gallery-bug-rap/bug-rap-img4.jpg",
+      "/roadtrips/gallery-bug-rap/bug-rap-img5.jpg",
+      "/roadtrips/gallery-bug-rap/bug-rap-img6.jpg"
+    ],
+    "sponsors": [
+      {
+        "name": "HipHop Records",
+        "img": "/images/roadtrips/sponsor-rap1.png"
+      },
+      {
+        "name": "Urban Wear",
+        "img": "/images/roadtrips/sponsor-rap2.png"
+      }
+    ],
+    "events": [
+      {
+        "title": "Freestyle Battle",
+        "img": "/images/roadtrips/rap-event1.jpg"
+      },
+      {
+        "title": "Written Round",
+        "img": "/images/roadtrips/rap-event2.jpg"
+      }
+    ],
+    "contactUs": {
+      "name": "Contact Battle Underground",
+      "img": "/images/roadtrips/contact-rap.jpg",
+      "contactNumber": "+1234567891",
+      "instagram": "https://instagram.com/battleunderground",
+      "linkedin": "https://linkedin.com/company/battleunderground",
+      "email": "battle@underground.com"
+    }
+  },
+  {
+    "slug": "bug-beatboxing",
+    "title": "Battle Underground Beatboxing",
+    "backgroundImg": "/roadtrips/bug-beatboxing.jpg",
+    "aboutUs": {
+      "title": "With all this new and exciting things going around, Antaragni brings to you a brand new edition in its arsenal, BEATBOXING. Beatboxing is among the youngest of art forms and we believe in providing a premium stage to artists in a zeal to express, perform and put themselves out there. Antaragni believes in uplifting the underground art and presenting it to the mainstream. As a budding artist, you have the chance to not only get your talent recognised at a national level but also win exciting prizes. Get ready to control the hearts of your audience with your rhythm and the audacity  of your beats.  Keeping in mind the current circumstances the first 6 road trips will be organised in an all new online mode. So stay tuned, for we are arriving at your city with a competition sequence where the winners from all across the nation get a chance to battle off in front of a crowd of thousands and a stellar panel of judges at IIT Kanpur.",
+      "img": "/roadtrips/bug-beatboxing-about.jpg"
+    },
+    "schedule": {
+      "city": "Rap Battle Schedule",
+      "date": "/images/roadtrips/rap-schedule.jpg"
+    },
+    "gallary": [
+      "/roadtrips/gallery-bug-beatboxing/bug-beatboxing-img1.jpg",
+     "/roadtrips/gallery-bug-beatboxing/bug-beatboxing-img2.jpg",
+      "/roadtrips/gallery-bug-beatboxing/bug-beatboxing-img3.jpg",
+      "/roadtrips/gallery-bug-beatboxing/bug-beatboxing-img4.jpg",
+      "/roadtrips/gallery-bug-beatboxing/bug-beatboxing-img5.jpeg",
+      "/roadtrips/gallery-bug-beatboxing/bug-beatboxing-img6.jpg"
+    ],
+    "sponsors": [
+      {
+        "name": "HipHop Records",
+        "img": "/images/roadtrips/sponsor-rap1.png"
+      },
+      {
+        "name": "Urban Wear",
+        "img": "/images/roadtrips/sponsor-rap2.png"
+      }
+    ],
+    "events": [
+      {
+        "title": "Freestyle Battle",
+        "img": "/images/roadtrips/rap-event1.jpg"
+      },
+      {
+        "title": "Written Round",
+        "img": "/images/roadtrips/rap-event2.jpg"
+      }
+    ],
+    "contactUs": {
+      "name": "Contact Battle Underground",
+      "img": "/images/roadtrips/contact-rap.jpg",
+      "contactNumber": "+1234567891",
+      "instagram": "https://instagram.com/battleunderground",
+      "linkedin": "https://linkedin.com/company/battleunderground",
+      "email": "battle@underground.com"
+    }
+  },
+  {
+    "slug": "synchro",
+    "title": "Synchronicity",
+    "backgroundImg": "/roadtrips/synchro-bg.png",
+    "aboutUs": {
+      "title": "With the announcement of Antaragni ’25, the buzz for the biggest and most astounding rock fiesta is taking rounds, and honestly, none of us can keep calm! Welcome to Synchronicity, the haven for all rock music lovers in search of groovy music and amazing vibes! Where the country’s top bands put their best foot forward to compete and set the stage on fire with mind-blowing performances that electrify the environment. Over the years, Synchronicity has acted as a launchpad for some of India’s biggest rock acts including Parikrama, Them Clones, Pentagram, Blakc, The Family Cheese, Zero Gravity, and The Urban Earlymen. The event starts off with regional preliminary rounds- The ROADTRIPS, held last year in 9 major cities, including two international ones in Kathmandu and Dhaka witnessing registration from more than 800 bands. Given the current situation, we are adding a twist to the procedure and conducting the first six roadtrips in a whole new online mode. One band moves on from each zone to compete in the semi-finals held at IIT Kanpur. In the end, only the top 3 make it to the Grand Finale. The grand finale is judged by the members of the International headliner and is cheered by strong headbanging crowd of over 21,000 people! The event closes with a special performance by the international headliner. Synchronicity'19 was headlined by Skrat with a scintillating performance by the Heavy Rock band from Chennai.",
+      "img": "/roadtrips/synchro-about.jpg"
+    },
+    "schedule": {
+      "city": "Band Battle Schedule",
+      "date": "/images/roadtrips/synchro-schedule.jpg"
+    },
+    "gallary": [
+      "/roadtrips/gallery-synchro/synchro-img1.jpg",
+      "/roadtrips/gallery-synchro/synchro-img2.jpg",
+      "/roadtrips/gallery-synchro/synchro-img3.jpg",
+      "/roadtrips/gallery-synchro/synchro-img4.jpg",
+      "/roadtrips/gallery-synchro/synchro-img5.jpg",
+      "/roadtrips/gallery-synchro/synchro-img6.jpg"
+    ],
+    "sponsors": [
+      {
+        "name": "Music Gear Co",
+        "img": "/images/roadtrips/sponsor-synchro1.png"
+      },
+      {
+        "name": "Audio Solutions",
+        "img": "/images/roadtrips/sponsor-synchro2.png"
+      }
+    ],
+    "events": [
+      {
+        "title": "Original Composition",
+        "img": "/images/roadtrips/synchro-event1.jpg"
+      },
+      {
+        "title": "Cover Performance",
+        "img": "/images/roadtrips/synchro-event2.jpg"
+      }
+    ],
+    "contactUs": {
+      "name": "Contact Synchronicity",
+      "img": "/images/roadtrips/contact-synchro.jpg",
+      "contactNumber": "+1234567892",
+      "instagram": "https://instagram.com/synchronicity",
+      "linkedin": "https://linkedin.com/company/synchronicity",
+      "email": "info@synchronicity.com"
+    }
+  },
+  {
+    "slug": "comickaun",
+    "title": "Comic Kaun",
+    "backgroundImg": "/roadtrips/comickaun.jpg",
+    "aboutUs": {
+      "title": "Are you witty? Do your friends just love the timing of your jokes? Do you binge watch all the stand-up videos on YouTube with a feeling that you can do it better? Well, we have something for you. “Comic Kaun?” is Antaragni’s own version of a stand-up comic hunt, being organised for the first time in the 57th edition. Get ready to indulge in a battle of wit and timing with participants from all across the country and grab your mike as we get ready to answer the question - Comic Kaun?.",
+      "img": "/roadtrips/comickaun-logo.png"
+    },
+    "schedule": {
+      "city": "Comedy Show Schedule",
+      "date": "/images/roadtrips/comedy-schedule.jpg"
+    },
+    "gallary": [
+      "/images/roadtrips/comedy-gallery1.jpg",
+      "/images/roadtrips/comedy-gallery2.jpg"
+    ],
+    "sponsors": [
+      {
+        "name": "Laugh Factory",
+        "img": "/images/roadtrips/sponsor-comedy1.png"
+      },
+      {
+        "name": "Comedy Central",
+        "img": "/images/roadtrips/sponsor-comedy2.png"
+      }
+    ],
+    "events": [
+      {
+        "title": "Stand-up Competition",
+        "img": "/images/roadtrips/comedy-event1.jpg"
+      },
+      {
+        "title": "Improv Workshop",
+        "img": "/images/roadtrips/comedy-event2.jpg"
+      }
+    ],
+    "contactUs": {
+      "name": "Contact ComicKaun",
+      "img": "/images/roadtrips/contact-comedy.jpg",
+      "contactNumber": "+1234567893",
+      "instagram": "https://instagram.com/comickaun",
+      "linkedin": "https://linkedin.com/company/comickaun",
+      "email": "hello@comickaun.com"
+    }
+  },
+  {
+    "slug": "Junoon",
+    "title": "Junoon",
+    "backgroundImg": "/roadtrips/junoon-Bg.jpg",
+    "aboutUs": {
+"title": "Rock is not just a genre. It's an experience, it's a culture, and more than anything it's a feeling. And to feel is universal. Yet it is western rock that dominates the scene. So we bring you Junoon, to shine a light and light a fire in the awe-inspiring Eastern Rock scene. Feel your heart pounding along with the bass. Turn up the volume to the absolute max. Headbang so hard that you feel like you're sending waves of seismic proportions out in the universe. Rock in its essence is expression, it's disruption, and it's revolution. As long as you have a story to tell, rock has your back. And we'd like to make your story heard. So we bring you an epic battleground for Eastern Rock.\nJunoon had reached out to eight major cities in its hunt for the country’s best. Bangalore, Mumbai, Chandigarh, Hyderabad, Delhi, Pune, Indore and Kolkata. This time around we're back fully offline and the winners of the prelims conducted in these cities will get the opportunity to go head to head and to win incredible prizes at our campus itself! They'll get the opportunity of unparalleled fame and prestige of performing for a thousand strong crowd at the finale held at IIT Kanpur. If you're ready to tell your story to the world, to be louder than the thunder, and to rain down harder than the lightning, this is your chance. Sign up!",
+      "img": "/roadtrips/junoon-about.jpg"
+    },
+    "schedule": {
+      "city": "Rock Concert Schedule",
+      "date": "/images/roadtrips/rock-schedule.jpg"
+    },
+    "gallary": [
+      "/roadtrips/gallery-junoon/junoon-img1.jpg",
+      "/roadtrips/gallery-junoon/junoon-img2.jpg", 
+      "/roadtrips/gallery-junoon/junoon-img3.jpg", 
+      "/roadtrips/gallery-junoon/junoon-img4.jpg",
+      "/roadtrips/gallery-junoon/junoon-img5.jpg",
+      "/roadtrips/gallery-junoon/junoon-img6.jpg"
+    ],
+    "sponsors": [
+      {
+        "name": "Guitar World",
+        "img": "/images/roadtrips/sponsor-rock1.png"
+      },
+      {
+        "name": "Amplify Sound",
+        "img": "/images/roadtrips/sponsor-rock2.png"
+      }
+    ],
+    "events": [
+      {
+        "title": "Rock Band Showdown",
+        "img": "/images/roadtrips/rock-event1.jpg"
+      },
+      {
+        "title": "Guitar Solo Contest",
+        "img": "/images/roadtrips/rock-event2.jpg"
+      }
+    ],
+    "contactUs": {
+      "name": "Contact Junoon",
+      "img": "/images/roadtrips/contact-rock.jpg",
+      "contactNumber": "+1234567894",
+      "instagram": "https://instagram.com/junoon",
+      "linkedin": "https://linkedin.com/company/junoon",
+      "email": "rock@junoon.com"
+    }
+  },
+  {
+    "slug": "DJWar",
+    "title": "DJ Wars",
+    "backgroundImg": "/roadtrips/DJWars-bg.jpg",
+    "aboutUs": {
+      "title": "Known For Providing An Unparalleled And Highly Competitive Stage, DJ War Is The Grand Stage For All EDM Enthusiasts And Budding Artists Of The Country. The Highly Anticipated Finale Has Long Been One Of The Most Exciting Events Of The Fest, With Participants Streaming In From All Across The Country. As A Budding Artist, You Have The Chance To Not Only Get Your Talent Recognised At A National Level But Also Win Exciting Prizes, All The While Levelling Up And Rising To New Heights In The EDM Scene. This Time, DJ War Is Coming To Your City With Its Preliminary Rounds Being Organised In Online And Physical Modes In 12 Cities. Grab Your DAW And Get Ready To Spread Your Wings And Flaunt Your Flair With This Absolutely Amazing Opportunity To Break It Into The Big Leagues. Qualifying As Finalists Earns You A Chance To Perform In Front Of A Crowd Of Thousands And A Stellar Jury At The Color Run During Antaragni, An Event Filled With The Vibrance, Joy And Vigour, Symbolizing Everything Electronica Is About",
+      "img": "/roadtrips/DJWars-bg.jpg"
+    },
+    "schedule": {
+      "city": "DJ Competition Schedule",
+      "date": "/images/roadtrips/dj-schedule.jpg"
+    },
+    "gallary": [
+      "/images/roadtrips/dj-gallery1.jpg",
+      "/images/roadtrips/dj-gallery2.jpg"
+    ],
+    "sponsors": [
+      {
+        "name": "MixMaster Pro",
+        "img": "/images/roadtrips/sponsor-dj1.png"
+      },
+      {
+        "name": "Beat Factory",
+        "img": "/images/roadtrips/sponsor-dj2.png"
+      }
+    ],
+    "events": [
+      {
+        "title": "DJ Battle Round",
+        "img": "/images/roadtrips/dj-event1.jpg"
+      },
+      {
+        "title": "Electronic Set Showcase",
+        "img": "/images/roadtrips/dj-event2.jpg"
+      }
+    ],
+    "contactUs": {
+      "name": "Contact DJ Wars",
+      "img": "/images/roadtrips/contact-dj.jpg",
+      "contactNumber": "+1234567895",
+      "instagram": "https://instagram.com/djwars",
+      "linkedin": "https://linkedin.com/company/djwars",
+      "email": "mix@djwars.com"
+    }
+  },
+  {
+    "slug": "Nationals",
+    "title": "Nationals",
+    "backgroundImg": "/roadtrips/national-bg.jpg",
+    "aboutUs": {
+      "title": "Through Nationals, Antaragni seeks to reach out to more colleges across different cities of the country. In a particular city, a college becomes the venue partner after entering into collaboration with the fest. A plethora of events including Jitterbug (Western Group Dance), Estampie (Solo Dance), Street Play, Stage Play, Antaragni Idol, Fine Arts Quizzes and Literary Events are conducted and these witness participation from over 50 colleges with a footfall of more than 2500 in every city. The events get media coverage by local media partners and the endorsement is done through branding banners, customized standees, flyers and stalls in the road trip cities. This year, Antaragni is taking its road trip to Delhi, Indore, Chandigarh, Hyederabad, Jaipur, Pune and Lucknow. With an extremely successful last edition, we are expecting an even grander one this year, which hopefully will surpass all previous benchmarks.",
+      "img": "/roadtrips/national-about.jpg"
+    },
+    "schedule": {
+      "img1": "/roadtrips/schedule-national/city1.jpg",
+      "img2": "/roadtrips/schedule-national/city2.jpg",
+      "img3": "/roadtrips/schedule-national/city3.jpg",
+      "img4": "/roadtrips/schedule-national/city4.jpg",
+      "img5": "/roadtrips/schedule-national/city5.jpg",
+      "img6": "/roadtrips/schedule-national/city6.jpg",
+      "img7": "/roadtrips/schedule-national/city7.jpg",
+      "img8": "/roadtrips/schedule-national/city8.jpg", 
+      "city": "Grand Finale Schedule",
+      "date": "/images/roadtrips/nationals-schedule.jpg"
+    },
+    "gallary": [
+      "/roadtrips/gallery-national/national-img1.jpg",
+      "/roadtrips/gallery-national/national-img2.jpg",
+      "/roadtrips/gallery-national/national-img3.jpg",
+      "/roadtrips/gallery-national/national-img4.jpg",
+      "/roadtrips/gallery-national/national-img5.jpg",
+      "/roadtrips/gallery-national/national-img6.jpg"
+     
+    ],
+    "events": [
+      "ESTAMPIE",
+      "JITTERBUG",
+      "MODERN ART",
+      "POETRY SLAM",
+      "KAVYANJALI",
+      "MONOLOGUE",
+      "ANTARAGNI IDOL",
+      "NUKKAD NATAK",
+      "QUIZ"
+    ],
+    "sponsors": [
+      {
+        "name": "National Sponsor",
+        "img": "/images/roadtrips/sponsor-nationals1.png"
+      },
+      {
+        "name": "Grand Finale Partner",
+        "img": "/images/roadtrips/sponsor-nationals2.png"
+      }
+    ],
+    
+    "contactUs": {
+      "name": "Contact Nationals",
+      "img": "/images/roadtrips/contact-nationals.jpg",
+      "contactNumber": "+1234567896",
+      "instagram": "https://instagram.com/nationals",
+      "linkedin": "https://linkedin.com/company/nationals",
+      "email": "info@nationals.com"
+    }
+  }
+]

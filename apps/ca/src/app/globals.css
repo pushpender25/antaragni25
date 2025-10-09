@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Ultra&display=swap');
+
+
+@import "tailwindcss";
+@import "@repo/tailwind-config";
+@import "@repo/ui/styles.css";
+/* @import "@repo/tailwind-config/shared-styles.css"; */
+
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+  cursor: none;
+  box-sizing: border-box;
+  color: white;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #000000;
+    --foreground: #ededed;
+  }
+}
+
+::-webkit-scrollbar {
+  width: 5px;
+  height: 5px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f4f4f4;
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--pink);
+}
+
+
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: Arial, Helvetica, sans-serif;
+  overflow-x: hidden;
+  margin: 0;
+  padding: 0;
+}
+
+.heading {
+  @apply bg-gradient-to-b from-[var(--pink)] to-white bg-clip-text text-transparent;
+  font-family: "Ultra", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.red-shadow{
+  border: 1px solid rgba(255, 152, 162, 0.5);
+  border-bottom: 0;
+}
+
+.word{
+  display: inline-block;
+  white-space: pre-wrap;
+}

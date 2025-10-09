@@ -1,0 +1,44 @@
+{
+	"name": "events-registration",
+	"version": "0.1.0",
+	"private": true,
+	"type": "module",
+	"scripts": {
+		"dev": "next dev",
+		"build": "next build",
+		"start": "next start",
+		"lint": "next lint"
+	},
+	"dependencies": {
+		"@react-three/fiber": "^9.3.0",
+		"@repo/firebase": "^1.0.0",
+		"@repo/model": "^1.0.0",
+		"@repo/store": "^1.0.0",
+		"@repo/ui": "*",
+		"class-variance-authority": "^0.7.1",
+		"embla-carousel": "^8.6.0",
+		"embla-carousel-react": "^8.6.0",
+		"gsap": "^3.13.0",
+		"next": "15.4.2",
+		"raw-loader": "^4.0.2",
+		"react": "19.1.0",
+		"react-dom": "19.1.0",
+		"react-hot-toast": "^2.5.2",
+		"react-markdown": "^10.1.0"
+	},
+	"devDependencies": {
+		"@eslint/eslintrc": "^3",
+		"@repo/eslint-config": "*",
+		"@repo/tailwind-config": "*",
+		"@repo/typescript-config": "*",
+		"@tailwindcss/postcss": "^4",
+		"@tailwindcss/typography": "^0.5.16",
+		"@types/node": "^20",
+		"@types/react": "^19",
+		"@types/react-dom": "^19",
+		"eslint": "^9",
+		"eslint-config-next": "15.4.2",
+		"tailwindcss": "^4",
+		"typescript": "^5"
+	}
+}

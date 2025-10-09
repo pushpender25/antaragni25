@@ -1,0 +1,19 @@
+/* Component-level styles for the UI package */
+@import "@repo/tailwind-config";
+
+.progress {
+    @apply absolute bottom-0 left-0 h-1 w-full overflow-hidden;
+}
+
+.progress:before{
+    content: "";
+    animation: progress 5s linear forwards;
+    background-color: var(--pink);
+    @apply absolute bottom-0 right-0 h-full w-full;
+}
+
+@keyframes progress {
+    100% {
+        right: 100%;
+    }
+}
