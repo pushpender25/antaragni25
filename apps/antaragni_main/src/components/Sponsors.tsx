@@ -157,7 +157,22 @@ export default function Sponsors() {
           </button>
         ))}
       </div>
-
+       {activeTab === "Marketing" && (
+        <div className="flex flex-col items-center justify-center mb-10">
+          <Image
+            src="/image.png"
+            alt="Sponsor Logo"
+            width={128}
+            height={128}
+            className="h-16"
+          />
+          <h2 className="text-2xl text-center font-semibold w-full truncate sm:whitespace-normal sm:line-clamp-2 text-[#FF8888]">
+            Inmobi | Glance
+            <br />
+            Title Sponsor, Blitzkrieg
+          </h2>
+        </div>
+      )}
       <SponsorSlotMachine sponsors={getCurrentSponsors()} sponsorsPerRow={sponsorsPerRow} />
     </div>
   );
