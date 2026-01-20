@@ -16,6 +16,8 @@ import ThemeReveal from "./ThemeReveal";
 import Footer from "./footer";
 import { useStore } from "@repo/store";
 import { useWindowSize } from 'react-use'
+import Loader from "./Loader";
+import Chatbot from "./chatbot";
 
 const henny = Henny_Penny({
 	subsets: ["latin"],
@@ -472,7 +474,9 @@ export function Hero() {
 	if (isMobile) {
 		return (
 			<div className="bg-black text-white antialiased">
+				<Loader />
 				<div ref={mainRef}>					
+				<Chatbot />
 					<section className="scene scene-1 min-h-screen flex items-center justify-center relative">
 						<img
 							src="/first.png"
@@ -531,8 +535,9 @@ export function Hero() {
 
 	return (
 		<div className="bg-black text-white antialiased text-center">
+			<Loader />
 			<div ref={wrapperRef} className="relative">
-				<AntLogo />
+				<Chatbot />
 				<div
 					ref={mainRef}
 					className={`h-screen w-screen fixed top-0 left-0 ${

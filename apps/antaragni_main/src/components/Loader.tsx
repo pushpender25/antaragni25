@@ -68,7 +68,7 @@ export default function Loader() {
   return (
     <div
       ref={loaderRef}
-      className="fixed inset-0 z-[9999] flex items-center justify-center bg-black"
+      className="fixed inset-0 z-[999999] flex items-center justify-center bg-black"
       style={{ clipPath: 'circle(150% at 50% 50%)' }} 
     >
       <div
